@@ -64,6 +64,32 @@ if (condição) {
 }
 ```
 
+## Estrutura switch
+
+A estrutura switch é usada para tomar decisões com base no valor de uma variável.
+
+```c
+int opcao = 2;
+
+switch(opcao) {
+    case 1:
+        printf("A opção é 1\n");
+        break;
+    case 2:
+        printf("A opção é 2\n");
+        break;
+    case 3:
+        printf("A opção é 3\n");
+        break;
+    default:
+        printf("Opção inválida\n");
+}
+```
+
+No exemplo acima, se `opcao` for 1, ele imprimirá "A opção é 1". Se for 2, imprimirá "A opção é 2", e assim por diante. Se `opcao` não corresponder a nenhum dos casos, será executado o bloco de código dentro do `default`.
+
+Essa é a estrutura básica do switch em C, utilizada para tomar decisões com base no valor de uma variável inteira.
+
 ---
 
 ## Entrada e Saída de Dados
