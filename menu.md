@@ -1,4 +1,14 @@
-#include <stdio.h>
+Um restante precisa de um programa para o seu restaurante tem 4 opções de pratos:
+- 1-Açaí e Peixe
+- 2-Açaí e Carne
+- 3-Açaí e Frango
+- 4- Açaí e Charque
+
+Faça o programa, que leia o pedido do usuário e imprima na tela a opção escolhida.  
+
+--- 
+Resposta:
+```c #include <stdio.h>
 
 int main() {
     int escolha;
@@ -30,3 +40,4 @@ int main() {
 
     return 0;
 }
+```
