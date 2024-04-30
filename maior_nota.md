@@ -1,3 +1,6 @@
+Na escola **ABC do Saber**, o aluno que obtém a maior nota é premiado ao final do ano, para isso o diretor precisa que você faça um programa de computador que peça ao diretor digitar as notas dos alunos da turma XPTO que tem apenas 4 alunos e diga qual tem a maior nota.
+
+```c
 #include <stdio.h>
 
 int main(){
@@ -26,3 +29,4 @@ int main(){
     printf("A maior nota é: %d\n", maior_nota);
 
 }
+``` 
