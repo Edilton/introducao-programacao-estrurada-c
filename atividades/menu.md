@@ -1,4 +1,4 @@
-Um restante precisa de um programa para o seu restaurante tem 4 opções de pratos:
+Um restaurante precisa de um programa para o seu restaurante tem 4 opções de pratos:
 - 1-Açaí e Peixe
 - 2-Açaí e Carne
 - 3-Açaí e Frango
