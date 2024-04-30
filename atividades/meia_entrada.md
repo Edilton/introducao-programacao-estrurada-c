@@ -3,7 +3,6 @@ Para comprar meia entrada no cinema a pessoa tem que ter acima de 60 anos ou ser
 
 ```c
 #include <stdio.h>
-#include <stdbool.h>
 
 int main() {
     int idade;
