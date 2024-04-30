@@ -135,17 +135,17 @@ printf("Caractere: %c\n", caractere);
 ```c
 int a = 5, b = 3;
 
-// AND lógico
+// E(AND) lógico
 if (a > 0 && b > 0) {
     printf("Ambos a e b são maiores que zero\n");
 }
 
-// OR lógico
+// OU(OR) lógico
 if (a == 5 || b == 5) {
     printf("Pelo menos um dos valores é igual a cinco\n");
 }
 
-// NOT lógico
+// NEGAÇÃO(NOT) lógica
 if (!(a == 0)) {
     printf("O valor de a não é zero\n");
 }
